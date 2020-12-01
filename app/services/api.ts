@@ -1,7 +1,8 @@
 import Axios from "axios";
+import {API_URL} from '@env';
 
 const api = Axios.create({
-  baseURL: 'http://192.168.0.2:8000/api',
+  baseURL: API_URL,
   timeout: 60000,
   headers: {
     common: {
