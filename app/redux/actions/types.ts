@@ -1,0 +1,10 @@
+export const AuthActionType = {
+  LOGIN: 'AUTH_ACTION_LOGIN',
+  LOGOUT: 'AUTH_ACTION_LOGOUT'
+}
+
+export const PostActionType = {
+  UPDATE: 'POST_UPDATE_GENERAL',
+  UPDATE_OWNED: 'POST_UPDATE_OWNED',
+  UPDATE_ALL: 'POST_UPDATE_ALL',
+};
