@@ -18,9 +18,10 @@ npm install
 ```
 
 #### android app keystore
-```
-refer to: https://reactnative.dev/docs/signed-apk-android and generate the keystore file to build production apk
-```
+refer to: https://reactnative.dev/docs/signed-apk-android and generate the keystore file to build the production apk
 
 #### .env files
 [After setting up the API](https://github.com/fssAlbertoLuis/parlador-ideal-api), change the .env files API_URL accordingly.
+
+### production apk
+you can grab the apk for testing here:https://github.com/fssAlbertoLuis/parlador-ideal-app/releases/tag/production
