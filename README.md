@@ -25,3 +25,13 @@ refer to: https://reactnative.dev/docs/signed-apk-android and generate the keyst
 
 ### production apk
 you can grab the apk for testing here:https://github.com/fssAlbertoLuis/parlador-ideal-app/releases/tag/production
+
+##TODO
+any IOS specific configuration
+
+### previews
+<p float="left">
+  <img src="app/assets/prev1.png" width="100" />
+  <img src="app/assets/prev2.png" width="100" /> 
+</p>
+
